@@ -1,6 +1,7 @@
 # Space Invaders 3D
  A version of the game Space Invaders in C++ with OpenGL and Assimp
 
+![img](/SampleImages/Test01.PNG)
 
 # Controls 🎮
 * <kbd><-</kbd><kbd>-></kbd>: Move
